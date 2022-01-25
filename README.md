@@ -1,0 +1,2 @@
+# alinapos
+minimarket alina pos
